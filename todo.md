@@ -1,67 +1,1 @@
-#TODO list
-由于我记性不是很好，在这里开个清单记录一下中长期的待办。
-# 读书
-~~乔布斯传~~
-~~滚蛋吧，肿瘤君~~
-~~记忆像铁轨一样长~~
-~~民主的细节~~
-~~看见~~
-周鸿祎自述－我的互联网方法论
-如何阅读一本书
-设计模式之禅
-设计中的设计
-乔纳森传
-增长黑客
-观念的水位
-活着
-岛上书店
-稻盛和夫
-~~如何变得有思想~~
-~~从0到1~~
-~~傅雷家书~~
-我所理解的生活
-万万没想到－用理工科的思维理解世界
-重新解读公司
-重新定义公司－How Google Works
-发现这么美的台湾
-鱼羊野史
-经济学原理
-~~参与感－小米口本营销内部手册~~
-活着活着就老了
-人生有何意义
-沉默的大多数
-黑客与画家
-月亮和六便士
-简约之美
-~~一小时之外~~
-~~纸上得来~~
-~~在难搞的日子笑出声来~~
-吴敬琏传
-程序人生
-编写可读代码的艺术
-曾国藩家书
-道德情操论
-贫穷的本质
-洗澡
-
-
-# 练习
-google guava
-jdk8
-lambda
-funtional programing
-concurrent
-NIO
-spark
-strom
-jvm proformance
-hotspot vm
-zookeeper
-swfit
-
-# 代码
-swift guide
-bonpie-portal
-
-# idea
-- Chrome Extension #1 Voice Joking '嗨,千橙！'
+#TODO list由于我记性不是很好，在这里开个清单记录一下中长期的待办。# 读书~~乔布斯传~~~~滚蛋吧，肿瘤君~~~~记忆像铁轨一样长~~~~民主的细节~~~~看见~~周鸿祎自述－我的互联网方法论如何阅读一本书设计模式之禅设计中的设计乔纳森传增长黑客观念的水位活着岛上书店稻盛和夫~~如何变得有思想~~~~从0到1~~~~傅雷家书~~我所理解的生活万万没想到－用理工科的思维理解世界重新解读公司重新定义公司－How Google Works发现这么美的台湾鱼羊野史经济学原理~~参与感－小米口本营销内部手册~~活着活着就老了人生有何意义沉默的大多数黑客与画家月亮和六便士简约之美~~一小时之外~~~~纸上得来~~~~在难搞的日子笑出声来~~吴敬琏传程序人生编写可读代码的艺术曾国藩家书道德情操论贫穷的本质洗澡# 练习google guavajdk8lambdafuntional programingconcurrentNIOsparkstromjvm proformancehotspot vmzookeeperswfit# 代码swift guidebonpie-portal# idea- Chrome Extension #1 Voice Joking '嗨,千橙！'
