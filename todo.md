@@ -51,6 +51,7 @@
 - lambda 
 - funtional programing 
 - concurrent 
+- Redis
 - NIO 
 - spark 
 - strom 
@@ -58,10 +59,16 @@
 - hotspot vm 
 - zookeeper 
 - swfit 
+- 分布式
 
 ## 代码
 - swift guide 
 - bonpie-portal 
+
+## 输出
+- 写专栏``写给大家看的JVM说明书``
+- 提交Github代码
+- 日报周报
 
 ## idea
 - Chrome Extension #1 Voice Joking '嗨,千橙！' 
