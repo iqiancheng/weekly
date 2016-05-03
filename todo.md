@@ -1,6 +1,6 @@
 #TODO list
 由于我记性不是很好，在这里开个清单记录一下中长期的待办。
-# 读书
+## 读书
 - ~~乔布斯传~~ 
 - ~~滚蛋吧，肿瘤君~~ 
 - ~~记忆像铁轨一样长~~ 
@@ -45,7 +45,7 @@
 - 洗澡 
 
 
-# 练习
+## 练习
 - google guava 
 - jdk8 
 - lambda 
@@ -59,9 +59,9 @@
 - zookeeper 
 - swfit 
 
-# 代码
+## 代码
 - swift guide 
 - bonpie-portal 
 
-# idea
+## idea
 - Chrome Extension #1 Voice Joking '嗨,千橙！' 
