@@ -47,6 +47,13 @@
 
 
 ## 练习
+- HashMap Hashtable LinkedHashMap ConcurrentHashMap TreeMap Set TreeSet
+- Red Black Tree
+- ``Sort`` Arrays.sort() & Collecitons.sort()  & MegreSort & QuickSort & BinaryInsertSort & TimeSort & BleedSort
+- Collection List|Map|Set 
+- ArrayList & LinkedArrayList & Vector
+- commons-*.jar & apache opensource
+- GOF Design Pattern(Creational Structional Behavioral) 23 Total
 - google guava 
 - jdk8 
 - lambda 
