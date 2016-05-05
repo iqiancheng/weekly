@@ -54,6 +54,9 @@
 - ArrayList & LinkedArrayList & Vector
 - commons-*.jar & apache opensource
 - GOF Design Pattern(Creational Structional Behavioral) 23 Total
+- MySQL sql performance (index(btree+), DB Table Design, Join, cache, divide )
+- db eneine (innoDB MyISAM Merge)
+- High availabillity and failover MySQL (Master/slave)
 - google guava 
 - jdk8 
 - lambda 
