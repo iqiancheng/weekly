@@ -97,7 +97,7 @@
 - 博客园
 - 伯乐在线
 - 淘宝中间件专家-沈询
-- IBM 蔡超 ChaoCai
+- IBM 蔡超 ChaoCai[JVM GC解密][gc-chaocai]
 - 酷壳
 
 
@@ -123,4 +123,5 @@
 
 
 [vim-guide]: http://coolshell.cn/articles/5426.html
+[gc-chaocai]: http://v.youku.com/v_show/id_XMTUzNTkwNTkwOA==.html?firsttime=5351
 
