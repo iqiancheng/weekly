@@ -118,3 +118,9 @@
 - Wechat voice talk plugin
 - Farbox Dashboard App
 
+## 练习
+- [简明Vim练级攻略][vim-guide]
+
+
+[vim-guide]: http://coolshell.cn/articles/5426.html
+
