@@ -89,16 +89,16 @@
 - 分布式
 
 ## 输入
-importNew
-TuneIn Radio
-IBM Developer Works
-ifeve.com
-github
-博客园
-伯乐在线
-淘宝中间件专家-沈询
-IBM 蔡超 ChaoCai
-酷壳
+- importNew
+- TuneIn Radio
+- IBM Developer Works
+- ifeve.com
+- github
+- 博客园
+- 伯乐在线
+- 淘宝中间件专家-沈询
+- IBM 蔡超 ChaoCai
+- 酷壳
 
 
 ## 代码
