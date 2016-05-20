@@ -82,6 +82,9 @@
 - zookeeper 
 - swfit 
 - 分布式
+- Redis 事物的实现原理
+- 常用的数据结构及Java实现
+- 
 
 ## 输入
 - importNew
@@ -115,7 +118,7 @@
 
 ## 练习
 - [简明Vim练级攻略][vim-guide]
-
+- Swift Coding
 
 [vim-guide]: http://coolshell.cn/articles/5426.html
 [gc-chaocai]: http://v.youku.com/v_show/id_XMTUzNTkwNTkwOA==.html?firsttime=5351
