@@ -122,6 +122,6 @@
 - Swift Coding
 
 [vim-guide]: http://coolshell.cn/articles/5426.html
-[jm.taobao]: http://jm.taobao.com
+[jm.taobao]: http://jm.taobao.org
 [gc-chaocai]: http://v.youku.com/v_show/id_XMTUzNTkwNTkwOA==.html?firsttime=5351
 
