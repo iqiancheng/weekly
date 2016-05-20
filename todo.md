@@ -95,6 +95,7 @@
 - 博客园
 - 伯乐在线
 - 淘宝中间件专家-沈询
+- [淘宝中间件团队博客][jm.taobao]/核心团队博客
 - IBM 蔡超 ChaoCai[JVM GC解密][gc-chaocai]
 - 酷壳
 
@@ -121,5 +122,6 @@
 - Swift Coding
 
 [vim-guide]: http://coolshell.cn/articles/5426.html
+[jm.taobao]: http://jm.taobao.com
 [gc-chaocai]: http://v.youku.com/v_show/id_XMTUzNTkwNTkwOA==.html?firsttime=5351
 
