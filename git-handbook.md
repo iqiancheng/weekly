@@ -86,6 +86,10 @@ git show --stat
 ```
 git show --stat HEAD~3
 ```
+只查看某人的提交记录
+```
+git reflog --author='author'
+```
 
 ### 常用命令
 
