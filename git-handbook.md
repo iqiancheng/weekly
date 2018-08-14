@@ -61,6 +61,11 @@ git reflog
 git show <logid>
 
 ```
+恢复最后一次提交的状态
+```
+git revert HEAD
+git revert HEAD~2
+```
 ### 常用命令
 
 查看、添加、提交、删除、找回，重置修改文件
