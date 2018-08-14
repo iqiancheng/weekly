@@ -1,3 +1,8 @@
+SwaggerPlugin
+ExtendEntitySetter
+https://www.cnblogs.com/tietazhan/p/7080219.html
+
+
 Mybatis Generator的model生成中文注释,支持oracle和mysql(通过实现CommentGenerator接口的方法来实现)
 https://www.cnblogs.com/NieXiaoHui/p/6094144.html
 
