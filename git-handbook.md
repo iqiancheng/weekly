@@ -74,6 +74,19 @@ or
 ```
 git diff --name-only <commit_id1> <commit_id2>
 ```
+查看最后一次提交详情
+```
+git show 
+```
+查看最后一次提交文件变动列表
+```
+git show --stat
+```
+查看最后几次提交文件变更列表
+```
+git show --stat HEAD~3
+```
+
 ### 常用命令
 
 查看、添加、提交、删除、找回，重置修改文件
