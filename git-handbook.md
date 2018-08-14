@@ -90,6 +90,15 @@ git show --stat HEAD~3
 ```
 git reflog --author='author'
 ```
+根据最近几次提交记录打增量包
+```
+git diff HEAD~3 HEAD --name-only|xargs tar update.tar.gz
+```
+or
+```
+git diff <commit_id1> <commit_id2> |xargs zip update.zip
+```
+
 
 ### 常用命令
 
