@@ -58,13 +58,21 @@ git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~1
 git reflog
-git show <logid>
+git show <commit_id>
 
 ```
 恢复最后一次提交的状态
 ```
 git revert HEAD
 git revert HEAD~2
+```
+获取最近更改(3次提交/n次提交)的文件列表
+```
+git diff --name-only HEAD~3 HEAD
+```
+or
+```
+git diff --name-only <commit_id1> <commit_id2>
 ```
 ### 常用命令
 
