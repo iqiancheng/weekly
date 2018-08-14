@@ -82,7 +82,7 @@ git show
 ```
 git show --stat
 ```
-查看最后几次提交文件变更列表
+查看最近某次提交文件变更列表
 ```
 git show --stat HEAD~3
 ```
