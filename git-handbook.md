@@ -92,7 +92,7 @@ git reflog --author='author'
 ```
 根据最近几次提交记录打增量包(提取出两个版本之间的差异文件并打包 )
 ```
-git diff HEAD~3 HEAD --name-only|xargs tar update.tar.gz
+git diff HEAD~3 HEAD --name-only|xargs tar -cvf update.tar.gz
 ```
 or
 ```
