@@ -98,6 +98,12 @@ or
 ```
 git diff <commit_id1> <commit_id2> |xargs zip update.zip
 ```
+恢复某一个文件到指定版本
+```
+git checkout <hash> <filename>
+git add <filename>
+git commit -m "revert file to <hash> version"
+```
 
 
 ### 常用命令
