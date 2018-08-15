@@ -100,9 +100,19 @@ git diff <commit_id1> <commit_id2> |xargs zip update.zip
 ```
 恢复某一个文件到指定版本
 ```
-git checkout <hash> <filename>
-git add <filename>
+git checkout <hash> <file>
+git add <file>
 git commit -m "revert file to <hash> version"
+```
+or
+```
+git checkout <hash> /src/java/*
+```
+or 
+```
+git reset [--hard]  <hash> <file>
+git add <file>
+git commiit -m "reset file to ..."
 ```
 
 
