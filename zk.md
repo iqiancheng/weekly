@@ -77,3 +77,7 @@ Leader服务器会和每一个Follower/Observer服务器都建立TCP连接，同
 
 ### zookeeper是否会自动进行日志清理？如何进行日志清理？
 zk自己不会进行日志清理，需要运维人员进行日志清理
+
+
+
+<https://blog.csdn.net/belvine/article/details/79398599>
