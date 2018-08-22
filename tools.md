@@ -11,6 +11,8 @@ IEInspector.HTTP.Analyzer.Full.Edition.v7.0.2.431.Incl.Keymaker-ZWT.zip
 KMSpico Install(www.iruanmi.com).zip
 MI.WLAN.Adapter.driver.DriverDouble.zip
 Everything.zip
+Nginx
+
 
 ### Mac
 MemoryAnalyzer-1.5.0.201505271423.zip
